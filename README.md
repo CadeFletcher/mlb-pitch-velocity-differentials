@@ -2,9 +2,9 @@
 This project analyzes and models the velocity differential between a pitcher’s primary fastball and their non-fastball offerings using publicly available MLB Statcast data from 2020–2024.
 
 
-## Modeling Pitch Velocity Differentials Using Public Statcast Data ##
+# Modeling Pitch Velocity Differentials Using Public Statcast Data #
 
-# Overview #
+## Overview ##
 Velocity separation is a key component of pitch effectiveness, influencing hitter timing, pitch tunneling, and overall arsenal quality.
 
 The goal of this project is to replicate a real-world baseball R&D workflow: from data cleaning and feature engineering through model development and evaluation.
